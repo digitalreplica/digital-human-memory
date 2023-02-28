@@ -1,5 +1,7 @@
 # Shared Digital Memory Project
 
+NOTE: This work has evolved into https://github.com/digitalreplica/conceptual-knowledge
+
 Welcome to the Shared Digital Memory project, a social experiment to accumulate, refine, and share knowledge. This is a text-focused, git-powered method of organizing not only your own knowledge, but extending it with knowledge other people have shared.
 
 ## The Basic Concepts
